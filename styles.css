@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    font-family: 'Outfit', sans-serif;
+}
+
+p{
+    font-weight: 400;
+}
+
+h2{
+    font-weight: 700;
+}
